@@ -1,6 +1,4 @@
-# How to implement Clustering in Power BI using PyCaret
-A step-by-step tutorial for implementing clustering analysis
-Read the complete post: https://medium.com/@moez_62905/how-to-implement-clustering-in-power-bi-using-pycaret-4b5e34b1405b
+# Machine Learning in Power BI using PyCaret
 
 Official Website : https://www.pycaret.org
 
